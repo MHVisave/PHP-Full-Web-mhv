@@ -1,0 +1,129 @@
+<html>: Represents the root element of an HTML page.
+<head>: Contains meta-information about the HTML document, such as the title and links to external stylesheets or scripts.
+<body>: Encloses the content of the HTML document that will be displayed in the browser window.
+<div>: Defines a division or a container that groups other HTML elements together.
+<p>: Represents a paragraph of text.
+<h1> to <h6>: Headings of different levels, with <h1> being the highest and <h6> being the lowest.
+<a>: Creates a hyperlink to another web page or a specific location within the same page.
+<img>: Inserts an image into the web page.
+<ul>: Defines an unordered list.
+<ol>: Defines an ordered list.
+<li>: Represents an item in a list (<ul> or <ol>).
+<table>: Defines a table with rows and columns.
+<tr>: Represents a table row.
+<td>: Represents a table cell within a row.
+<form>: Creates a form for user input.
+<input>: Defines an input field within a form.
+<button>: Creates a clickable button.
+<select>: Creates a dropdown list.
+<textarea>: Defines a multi-line text input area.
+<span>: Defines a generic inline container for text or other elements.
+These are just a few examples of HTML elements, and there are many more available for various purposes. HTML provides a wide range of elements to structure and organize the content on a web page, allowing developers to create interactive and visually appealing websites.
+
+Other HTML entities
+
+<abbr>: Abbreviation
+<address>: Contact information
+<area>: Image map area
+<article>: Article content
+<aside>: Sidebar content
+<audio>: Audio playback
+<b>: Bold text
+<base>: Base URL for all relative URLs in a document
+<bdi>: Bi-directional text isolation
+<bdo>: Bi-directional text override
+<blockquote>: Block quotation
+<body>: Document body
+<br>: Line break
+<button>: Button
+<canvas>: Drawing canvas
+<caption>: Table caption
+<cite>: Title of a work
+<code>: Computer code
+<col>: Table column
+<colgroup>: Group of table columns
+<data>: Machine-readable data
+<datalist>: Pre-defined options for input controls
+<dd>: Definition description
+<del>: Deleted text
+<details>: Additional details
+<dfn>: Definition term
+<dialog>: Dialogue box or window
+<div>: Generic container
+<dl>: Definition list
+<dt>: Definition term
+<em>: Emphasized text
+<embed>: External content container
+<fieldset>: Group of related form controls
+<figcaption>: Figure caption
+<figure>: Figure container
+<footer>: Document or section footer
+<form>: Form
+<h1> to <h6>: Headings of different levels
+<head>: Document head
+<header>: Document or section header
+<hgroup>: Group of headings
+<hr>: Thematic break
+<html>: Document root element
+<i>: Italic text
+<iframe>: Inline frame
+<img>: Image
+<input>: Input control
+<ins>: Inserted text
+<kbd>: User input
+<label>: Form element label
+<legend>: Fieldset legend
+<li>: List item
+<link>: External resource link
+<main>: Main content of a document
+<map>: Image map container
+<mark>: Highlighted text
+<meta>: Metadata
+<meter>: Scalar measurement within a known range
+<nav>: Navigation links
+<noscript>: Fallback content for non-scriptable environments
+<object>: Embedded object
+<ol>: Ordered list
+<optgroup>: Option group
+<option>: Option in a select element
+<output>: Calculated output value
+<p>: Paragraph
+<param>: Parameter for an object
+<picture>: Picture with multiple sources
+<pre>: Preformatted text
+<progress>: Progress indicator
+<q>: Inline quotation
+<q>: Inline quotation
+<rp>: Parentheses for ruby annotation text
+<rt>: Ruby annotation text
+<ruby>: Ruby annotation container
+<s>: Strikethrough text
+<samp>: Sample output or code
+<script>: Embedded or referenced script
+<section>: Document section
+<select>: Dropdown list
+<small>: Small text
+<source>: Media source for <audio> or <video>
+<span>: Generic inline container
+<strong>: Strong emphasis
+<style>: Inline or embedded style information
+<sub>: Subscript text
+<summary>: Summary or caption for <details>
+<sup>: Superscript text
+<table>: Table
+<tbody>: Table body
+<td>: Table data cell
+<template>: Template content
+<textarea>: Multi-line text input
+<tfoot>: Table footer
+<th>: Table header cell
+<thead>: Table header
+<time>: Date or time value
+<title>: Document title
+<tr>: Table row
+<track>: Text track for <video> or <audio>
+<u>: Underlined text
+<ul>: Unordered list
+<var>: Variable or placeholder text
+<video>: Video playback
+<wbr>: Word break opportunity
